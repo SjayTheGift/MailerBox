@@ -7,7 +7,7 @@ header("Cache-Control: must-revalidate, post-check=0, pre-check=0");
 header("Content-Type: application/force-download");
 header("Content-Type: application/octet-stream");
 header("Content-Type: application/download");
-header("Content-Disposition: attachment;filename=spacebox-builder.html ");
+header("Content-Disposition: attachment;filename=SpaceMail.html ");
 header("Content-Transfer-Encoding: binary ");
 
 
